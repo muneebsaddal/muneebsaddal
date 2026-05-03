@@ -67,4 +67,4 @@ Currently, I work remotely as a **Data Scientist** while building AI automation 
 
 AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.
 
-**Explore my work:** [github.com/muneebsaddal](https://github.com/muneebsaddal)
+**Explore my work:** [github.com/repos](https://github.com/repos)
