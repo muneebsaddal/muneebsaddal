@@ -1,76 +1,91 @@
-<h1 align="center">Muhammad Muneeb Arshad</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Systems%20Engineer&descAlignY=58&descSize=18" alt="Muhammad Muneeb Arshad" />
+</p>
 
 <p align="center">
-  <b>Data Scientist & AI Systems Engineer</b><br/>
-  Industrial Computer Vision · LLM Agents · Production AI Automation
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=780&lines=Industrial+Computer+Vision;Production+LLM+Agents;AI+Automation+Systems;Medical+%26+Sports+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/muneebsaddal">
     <img src="https://img.shields.io/badge/GitHub-muneebsaddal-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLO%20%7C%20DETR%20%7C%20OCR-0A66C2?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-LangGraph%20%7C%20RAG%20%7C%20Agents-6A1B9A?style=for-the-badge" alt="LLM Systems" />
+  <img src="https://img.shields.io/badge/YOLO%20%7C%20DETR%20%7C%20OCR-Computer%20Vision-0A66C2?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/LangGraph%20%7C%20RAG%20%7C%20Agents-LLM%20Systems-6A1B9A?style=for-the-badge" alt="LLM Systems" />
 </p>
 
 ---
 
-I build AI systems that survive the jump from notebook to production: defect detection pipelines, real-time OCR, medical imaging workflows, sports analytics systems, and deterministic LLM agents with validation, retries, state, and observability.
+### 👋 About Me
 
-My sweet spot is turning messy real-world problems into reliable AI workflows: clean datasets, measurable models, structured outputs, inspectable traces, and software that clients can actually deploy.
+I build AI systems that make it from prototype to production: defect detection pipelines, real-time OCR, medical imaging workflows, sports analytics systems, and deterministic LLM agents with validation, retries, state, and observability.
+
+My focus is simple: **clean datasets, measurable models, structured outputs, and deployable AI software.**
 
 ---
 
-## What I Do Best
+### 🚀 What I Build
 
-| Focus | Strength |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏭 Industrial Vision</h3>
+      Defect detection, OCR, instance segmentation, classification, annotation pipelines, and edge-ready inference.
+    </td>
+    <td width="50%">
+      <h3>🤖 LLM Automation</h3>
+      LangGraph agents, planner/executor/validator workflows, RAG systems, schema validation, and audit trails.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Applied AI</h3>
+      Medical imaging, sports analytics, multimodal translation, pose estimation, and keypoint detection.
+    </td>
+    <td width="50%">
+      <h3>⚙️ Production Systems</h3>
+      FastAPI services, Redis state, WebSocket dashboards, Docker deployment, CI/CD, and monitoring.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 Featured Systems
+
+| Project | Snapshot |
 | --- | --- |
-| Industrial AI | Defect detection, instance segmentation, OCR, edge-ready model pipelines |
-| LLM Automation | LangGraph agents, planner/executor/validator systems, schema-first workflows |
-| Applied CV | YOLO, DETR, Mask R-CNN, pose estimation, keypoints, medical imaging |
-| Production Systems | FastAPI, Redis, WebSockets, Docker, CI/CD, monitoring dashboards |
+| **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
+| **Signal Builder Agent** | Schema-governed LLM system using compact Intermediate Representation for deterministic validated outputs. |
+| **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
+| **Padel Sports Analytics** | Player detection, pose estimation, ball tracking, court keypoints, temporal smoothing, and CVAT handoff. |
+| **Arabic Sign Language Translation** | LLaVA-OneVision + CLIP + mBART + LoRA multimodal pipeline on Isharah-500. |
 
 ---
 
-## Featured Work
-
-| System | What It Proves |
-| --- | --- |
-| **AI Automation Platform** | Production-grade LangGraph orchestration with FastAPI, Redis state, React/Vite dashboard, WebSocket live monitoring, trace export, and replay. |
-| **Signal Builder Agent** | Schema-governed LLM system using compact Intermediate Representation to solve large-schema context limits and produce deterministic validated outputs. |
-| **Industrial Vision Pipelines** | End-to-end defect detection, OCR, segmentation, and classification workflows using YOLO, DETR, Mask R-CNN, OpenCV, and CVAT. |
-| **Padel Sports Analytics** | Player detection, pose estimation, ball tracking, court keypoints, dataset normalization, temporal smoothing, and annotation handoff workflow. |
-| **Arabic Sign Language Translation** | Multimodal pipeline with LLaVA-OneVision, CLIP, mBART, LoRA, 4-bit quantization, and ablation studies on Isharah-500. |
-| **Medical Imaging AI** | Skin disease, pneumonia, diabetic retinopathy, and vertebral segmentation systems with clinical-style validation and visual outputs. |
-
----
-
-## Tech I Use
-
-**AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face  
-**Vision:** YOLOv8/v11, DETR, Mask R-CNN, OpenCV, CVAT, OCR  
-**LLMs:** LangGraph, LangChain, OpenAI, Claude, Ollama, LLaVA-OneVision, mBART, LoRA  
-**Retrieval:** RAG, FAISS, Sentence Transformers, TF-IDF  
-**Backend:** FastAPI, Flask, Redis, Celery, WebSocket, REST APIs  
-**Frontend/Data Apps:** React/Vite, Streamlit, Power BI  
-**Infra:** Docker, Linux, GitHub Actions, remote GPU environments
-
----
-
-## Current Direction
-
-- Building industrial computer vision systems for manufacturing quality control.
-- Designing deterministic LLM workflows with structured state, validation, retries, and audit trails.
-- Creating practical AI automation systems that connect cleanly with APIs, dashboards, and human review loops.
-
----
-
-## GitHub Snapshot
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muneebsaddal&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebsaddal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,ts,js,docker,redis,linux,githubactions,git" alt="Tech stack icons" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-6A1B9A?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-0A66C2?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/DETR-Detection%20Transformer-2E7D32?style=flat-square" alt="DETR" />
+  <img src="https://img.shields.io/badge/FAISS-Retrieval-7952B3?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- 🏭 Industrial computer vision for manufacturing quality control
+- 🤖 Deterministic LLM workflows with structured state and validation
+- 📡 Real-time observability dashboards for AI automation systems
+- 🧪 Practical AI pipelines that are testable, inspectable, and deployable
 
 ---
 
@@ -82,4 +97,8 @@ My sweet spot is turning messy real-world problems into reliable AI workflows: c
   <a href="https://github.com/muneebsaddal">
     <img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:0A66C2&height=95&section=footer" alt="Footer" />
 </p>
