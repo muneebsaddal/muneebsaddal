@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,45:0A66C2,100:6A1B9A&height=230&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Integration%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" alt="Muhammad Muneeb Arshad" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Muhammad Muneeb Arshad - AI Automation and Integration Engineer" />
 </p>
 
 <p align="center">
@@ -125,5 +125,5 @@ My focus is simple: **understand the workflow, find where AI creates business va
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,55:0A66C2,100:101828&height=110&section=footer" alt="Footer" />
+  <img width="100%" src="./assets/profile-footer.svg" alt="Profile footer graphic" />
 </p>
