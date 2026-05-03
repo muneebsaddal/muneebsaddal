@@ -1,79 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Systems%20Engineer&descAlignY=58&descSize=18" alt="Muhammad Muneeb Arshad" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Integration%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" alt="Muhammad Muneeb Arshad" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=780&lines=Industrial+Computer+Vision;Production+LLM+Agents;AI+Automation+Systems;Medical+%26+Sports+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=850&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/muneebsaddal">
+    <img src="https://img.shields.io/badge/GitHub-muneebsaddal-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/n8n%20%7C%20OpenAI%20%7C%20Claude-AI%20Automation-0A66C2?style=for-the-badge" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/LangGraph%20%7C%20RAG%20%7C%20Agents-AI%20Systems-6A1B9A?style=for-the-badge" alt="AI Systems" />
 </p>
 
 ---
 
-### 👋 About Me
+### About Me
 
-I build AI systems that make it from prototype to production: defect detection pipelines, real-time OCR, medical imaging workflows, sports analytics systems, and deterministic LLM agents with validation, retries, state, and observability.
+I build practical AI systems that help businesses save time, reduce manual work, and turn messy workflows into reliable automation.
 
-My focus is simple: **clean datasets, measurable models, structured outputs, and deployable AI software.**
+My work combines **AI automation, business integrations, RAG apps, AI agents, data science, and computer vision**. I focus on systems that move beyond demos: workflows that connect to real tools, process real data, and create measurable value.
+
+Currently, I work remotely as a **Data Scientist** while building AI automation and integration systems using tools like **n8n, OpenAI, Claude, LangGraph, Python, FastAPI, APIs, Docker, Redis, and cloud platforms**.
+
+My focus is simple: **understand the workflow, find where AI creates business value, and build a system that fits into the existing process.**
 
 ---
 
-### 🚀 What I Build
+### What I Build
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏭 Industrial Vision</h3>
-      Defect detection, OCR, instance segmentation, classification, annotation pipelines, and edge-ready inference.
+      <h3>AI Automation & Integrations</h3>
+      n8n workflows, OpenAI/Claude integrations, API automation, webhooks, CRM/email/database connections, and business process automation.
     </td>
     <td width="50%">
-      <h3>🤖 LLM Automation</h3>
-      LangGraph agents, planner/executor/validator workflows, RAG systems, schema validation, and audit trails.
+      <h3>AI Agents & RAG Apps</h3>
+      LangGraph agents, document Q&A, internal knowledge assistants, retrieval pipelines, validation, retries, and structured outputs.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏥 Applied AI</h3>
-      Medical imaging, sports analytics, multimodal translation, pose estimation, and keypoint detection.
+      <h3>Data Science & ML Systems</h3>
+      Predictive modeling, classification, data preprocessing, analytics, reporting, model evaluation, and production-ready ML workflows.
     </td>
     <td width="50%">
-      <h3>⚙️ Production Systems</h3>
-      FastAPI services, Redis state, WebSocket dashboards, Docker deployment, CI/CD, and monitoring.
+      <h3>Computer Vision</h3>
+      Image classification, OCR, object detection, defect detection, medical imaging, sports analytics, and visual data pipelines.
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 Featured Systems
+### Featured Systems
 
 | System | Production Signal |
 | --- | --- |
+| **AI Business Automation Workflows** | n8n + APIs + OpenAI/Claude workflows for automating repetitive business operations. |
+| **Autonomous AI Developer Agent** | Codex CLI + Claude Code + GitLab + Docker + Google Cloud agent setup for ticket-to-report execution. |
+| **RAG Question Answering Systems** | Retrieval pipelines for document Q&A, internal knowledge search, and structured AI responses. |
 | **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
-| **Signal Builder Agent** | Schema-governed LLM system using compact Intermediate Representation for deterministic validated outputs. |
 | **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
-| **Padel Sports Analytics** | Player detection, pose estimation, ball tracking, court keypoints, temporal smoothing, and CVAT handoff. |
-| **Arabic Sign Language Translation** | LLaVA-OneVision + CLIP + mBART + LoRA multimodal pipeline on Isharah-500. |
+| **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows. |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,ts,js,docker,redis,linux,githubactions,git" alt="Tech stack icons" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-AI%20Integration-111111?style=flat-square" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-AI%20Workflows-D97757?style=flat-square" alt="Claude" />
   <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-6A1B9A?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Systems-7952B3?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/FastAPI-AI%20Backends-009688?style=flat-square" alt="FastAPI" />
   <img src="https://img.shields.io/badge/YOLO-Object%20Detection-0A66C2?style=flat-square" alt="YOLO" />
-  <img src="https://img.shields.io/badge/DETR-Detection%20Transformer-2E7D32?style=flat-square" alt="DETR" />
-  <img src="https://img.shields.io/badge/FAISS-Retrieval-7952B3?style=flat-square" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OCR-Document%20AI-2E7D32?style=flat-square" alt="OCR" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
 </p>
 
 ---
 
+### Current Direction
+
+I am focused on building AI systems for businesses that want to:
+
+- automate repetitive workflows
+- connect AI to existing tools and databases
+- build internal AI assistants and RAG apps
+- reduce manual reporting and data entry
+- process documents, images, and business records
+- turn AI ideas into working production systems
+
+---
+
 <p align="center">
-  <b>Open to AI engineering, computer vision, automation, and production ML collaborations.</b>
+  <b>Open to AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muneebsaddal">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
+  </a>
 </p>
 
 <p align="center">
