@@ -1,64 +1,30 @@
-<p align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Muhammad Muneeb Arshad - AI Automation and Integration Engineer" />
-</p>
+# Muhammad Muneeb Arshad
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/muneebsaddal">
-    <img src="https://img.shields.io/badge/GitHub-muneebsaddal-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/n8n%20%7C%20OpenAI%20%7C%20Claude-AI%20Automation-0A66C2?style=for-the-badge" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/LangGraph%20%7C%20RAG%20%7C%20Agents-AI%20Systems-6A1B9A?style=for-the-badge" alt="AI Systems" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Automate-Manual%20Work-EA4B71?style=flat-square" alt="Automate manual work" />
-  <img src="https://img.shields.io/badge/Connect-APIs%20%26%20Tools-0A66C2?style=flat-square" alt="Connect APIs and tools" />
-  <img src="https://img.shields.io/badge/Retrieve-Business%20Knowledge-7952B3?style=flat-square" alt="Retrieve business knowledge" />
-  <img src="https://img.shields.io/badge/Deploy-Production%20AI-2E7D32?style=flat-square" alt="Deploy production AI" />
-</p>
+**AI Automation & Integration Engineer | Data Scientist**  
+Building practical AI systems for business automation, RAG apps, AI agents, data science, and computer vision.
 
 ---
 
 ## 👋 About Me
 
-I build practical AI systems that help businesses save time, reduce manual work, and turn messy workflows into reliable automation.
+I build AI systems that help businesses save time, reduce manual work, and turn messy workflows into reliable automation.
 
 My work combines **AI automation, business integrations, RAG apps, AI agents, data science, and computer vision**. I focus on systems that move beyond demos: workflows that connect to real tools, process real data, and create measurable value.
 
-Currently, I work remotely as a **Data Scientist** while building AI automation and integration systems using tools like **n8n, OpenAI, Claude, LangGraph, Python, FastAPI, APIs, Docker, Redis, and cloud platforms**.
+Currently, I work remotely as a **Data Scientist** while building AI automation and integration systems using **n8n, OpenAI, Claude, LangGraph, Python, FastAPI, APIs, Docker, Redis, and cloud platforms**.
 
-My focus is simple: **understand the workflow, find where AI creates business value, and build a system that fits into the existing process.**
+**My focus:** understand the workflow, find where AI creates business value, and build a system that fits into the existing process.
 
 ---
 
 ## 🚀 What I Build
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔁 AI Automation & Integrations</h3>
-      n8n workflows, OpenAI/Claude integrations, API automation, webhooks, CRM/email/database connections, and business process automation.
-    </td>
-    <td width="50%">
-      <h3>🧠 AI Agents & RAG Apps</h3>
-      LangGraph agents, document Q&A, internal knowledge assistants, retrieval pipelines, validation, retries, and structured outputs.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📊 Data Science & ML Systems</h3>
-      Predictive modeling, classification, data preprocessing, analytics, reporting, model evaluation, and production-ready ML workflows.
-    </td>
-    <td width="50%">
-      <h3>👁️ Computer Vision</h3>
-      Image classification, OCR, object detection, defect detection, medical imaging, sports analytics, and visual data pipelines.
-    </td>
-  </tr>
-</table>
+| Area | What I Work On |
+| --- | --- |
+| 🔁 **AI Automation & Integrations** | n8n workflows, OpenAI/Claude integrations, API automation, webhooks, CRM/email/database connections, and business process automation |
+| 🧠 **AI Agents & RAG Apps** | LangGraph agents, document Q&A, internal knowledge assistants, retrieval pipelines, validation, retries, and structured outputs |
+| 📊 **Data Science & ML Systems** | Predictive modeling, classification, preprocessing, analytics, reporting, model evaluation, and production-ready ML workflows |
+| 👁️ **Computer Vision** | Image classification, OCR, object detection, defect detection, medical imaging, sports analytics, and visual data pipelines |
 
 ---
 
@@ -66,64 +32,39 @@ My focus is simple: **understand the workflow, find where AI creates business va
 
 | System | Built For |
 | --- | --- |
-| 🔁 **AI Business Automation Workflows** | n8n + APIs + OpenAI/Claude workflows for automating repetitive business operations. |
-| 🛠️ **Autonomous AI Developer Agent** | Codex CLI + Claude Code + GitLab + Docker + Google Cloud agent setup for ticket-to-report execution. |
-| 📚 **RAG Question Answering Systems** | Retrieval pipelines for document Q&A, internal knowledge search, and structured AI responses. |
-| 📡 **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
-| 👁️ **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
-| 🏥 **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows. |
+| 🔁 **AI Business Automation Workflows** | Automating repetitive business operations with n8n, APIs, OpenAI, and Claude |
+| 🛠️ **Autonomous AI Developer Agent** | Ticket-to-report execution using Codex CLI, Claude Code, GitLab, Docker, and Google Cloud |
+| 📚 **RAG Question Answering Systems** | Document Q&A, internal knowledge search, retrieval pipelines, and structured AI responses |
+| 📡 **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with WebSocket observability, trace export, and replay |
+| 👁️ **Industrial Vision Pipelines** | YOLO, DETR, Mask R-CNN workflows for defect detection, OCR, segmentation, and classification |
+| 🏥 **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,ts,js,docker,redis,linux,githubactions,git" alt="Tech stack icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenAI-AI%20Integration-111111?style=flat-square" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-AI%20Workflows-D97757?style=flat-square" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-6A1B9A?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Systems-7952B3?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/FastAPI-AI%20Backends-009688?style=flat-square" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-0A66C2?style=flat-square" alt="YOLO" />
-  <img src="https://img.shields.io/badge/OCR-Document%20AI-2E7D32?style=flat-square" alt="OCR" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
-</p>
+**AI Automation:** n8n, Zapier, OpenAI, Claude, LangGraph, LangChain  
+**Backend & APIs:** Python, FastAPI, Flask, REST APIs, Webhooks, Redis, Celery  
+**RAG & Agents:** FAISS, Sentence Transformers, TF-IDF, structured outputs, schema validation  
+**Computer Vision:** YOLOv8/v11, DETR, Mask R-CNN, OpenCV, OCR, CVAT  
+**ML & Data:** PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Power BI  
+**Infrastructure:** Docker, Linux, GitHub Actions, remote GPU environments, cloud platforms
 
 ---
 
 ## 🎯 Business Problems I Solve
 
-<table>
-  <tr>
-    <td>⚡ Automate repetitive workflows</td>
-    <td>🔌 Connect AI to existing tools and databases</td>
-  </tr>
-  <tr>
-    <td>📚 Build internal AI assistants and RAG apps</td>
-    <td>📉 Reduce manual reporting and data entry</td>
-  </tr>
-  <tr>
-    <td>🧾 Process documents, images, and business records</td>
-    <td>🚀 Turn AI ideas into working production systems</td>
-  </tr>
-</table>
+- ⚡ Automating repetitive workflows
+- 🔌 Connecting AI to existing tools, databases, CRMs, and APIs
+- 📚 Building internal AI assistants and RAG apps
+- 📉 Reducing manual reporting and data entry
+- 🧾 Processing documents, images, and business records
+- 🚀 Turning AI ideas into working production systems
 
 ---
 
-<p align="center">
-  <b>Open to AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.</b>
-</p>
+## 🤝 Open To
 
-<p align="center">
-  <a href="https://github.com/muneebsaddal">
-    <img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
-  </a>
-</p>
+AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.
 
-<p align="center">
-  <img width="100%" src="./assets/profile-footer.svg" alt="Profile footer graphic" />
-</p>
+**Explore my work:** [github.com/muneebsaddal](https://github.com/muneebsaddal)
