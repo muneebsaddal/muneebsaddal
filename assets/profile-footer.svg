@@ -1,12 +1,16 @@
-<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footer" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6A1B9A"/>
-      <stop offset="0.5" stop-color="#0A66C2"/>
-      <stop offset="1" stop-color="#101828"/>
+    <linearGradient id="bar" x1="120" y1="55" x2="1080" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#F472B6"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="120" rx="22" fill="#080D18"/>
-  <path d="M0 34C132 62 243 60 371 39C521 15 642 21 782 55C925 89 1043 88 1200 47V120H0V34Z" fill="url(#footer)" opacity="0.92"/>
-  <path d="M0 60C160 89 292 83 436 58C594 30 733 36 886 72C1004 100 1094 99 1200 80" stroke="white" stroke-opacity="0.16" stroke-width="2"/>
+  <rect width="1200" height="110" rx="22" fill="#020617"/>
+  <rect x="1" y="1" width="1198" height="108" rx="21" stroke="#334155"/>
+  <path d="M120 55H1080" stroke="url(#bar)" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#94A3B8" font-family="'Fira Code','Dank Mono','Cascadia Code','Consolas',monospace" font-size="17" font-weight="700">
+    <text x="350" y="38">ship practical AI</text>
+    <text x="506" y="74">validate • automate • deploy</text>
+  </g>
 </svg>

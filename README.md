@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Deploy-Production%20AI-2E7D32?style=flat-square" alt="Deploy production AI" />
 </p>
 
-<br/>
+---
 
-### 👋 About Me
+## 👋 About Me
 
 I build practical AI systems that help businesses save time, reduce manual work, and turn messy workflows into reliable automation.
 
@@ -33,9 +33,9 @@ Currently, I work remotely as a **Data Scientist** while building AI automation 
 
 My focus is simple: **understand the workflow, find where AI creates business value, and build a system that fits into the existing process.**
 
-<br/>
+---
 
-### 🚀 What I Build
+## 🚀 What I Build
 
 <table>
   <tr>
@@ -60,9 +60,9 @@ My focus is simple: **understand the workflow, find where AI creates business va
   </tr>
 </table>
 
-<br/>
+---
 
-### 🧩 Featured Systems
+## 🧩 Featured Systems
 
 | System | Built For |
 | --- | --- |
@@ -73,9 +73,9 @@ My focus is simple: **understand the workflow, find where AI creates business va
 | 👁️ **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
 | 🏥 **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows. |
 
-<br/>
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,ts,js,docker,redis,linux,githubactions,git" alt="Tech stack icons" />
@@ -93,9 +93,9 @@ My focus is simple: **understand the workflow, find where AI creates business va
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
 </p>
 
-<br/>
+---
 
-### 🎯 Business Problems I Solve
+## 🎯 Business Problems I Solve
 
 <table>
   <tr>
@@ -112,7 +112,7 @@ My focus is simple: **understand the workflow, find where AI creates business va
   </tr>
 </table>
 
-<br/>
+---
 
 <p align="center">
   <b>Open to AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.</b>
