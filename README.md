@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=780&lines=Industrial+Computer+Vision;Production+LLM+Agents;AI+Automation+Systems;Medical+%26+Sports+Analytics" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/muneebsaddal">
-    <img src="https://img.shields.io/badge/GitHub-muneebsaddal-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/YOLO%20%7C%20DETR%20%7C%20OCR-Computer%20Vision-0A66C2?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/LangGraph%20%7C%20RAG%20%7C%20Agents-LLM%20Systems-6A1B9A?style=for-the-badge" alt="LLM Systems" />
-</p>
-
 ---
 
 ### 👋 About Me
@@ -82,12 +74,6 @@ My focus is simple: **clean datasets, measurable models, structured outputs, and
 
 <p align="center">
   <b>Open to AI engineering, computer vision, automation, and production ML collaborations.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muneebsaddal">
-    <img src="https://img.shields.io/badge/Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
-  </a>
 </p>
 
 <p align="center">
