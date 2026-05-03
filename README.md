@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6A1B9A&height=190&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20%26%20Integration%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" alt="Muhammad Muneeb Arshad" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:101828,45:0A66C2,100:6A1B9A&height=220&section=header&text=Muhammad%20Muneeb%20Arshad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Automation%20%26%20Integration%20Engineer%20%7C%20Data%20Scientist&descAlignY=62&descSize=18" alt="Muhammad Muneeb Arshad" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=850&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+Automation+Systems;Business+AI+Integrations;n8n+%7C+OpenAI+%7C+Claude+Workflows;RAG+Apps+%26+AI+Agents;Computer+Vision+%26+Production+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,9 +14,16 @@
   <img src="https://img.shields.io/badge/LangGraph%20%7C%20RAG%20%7C%20Agents-AI%20Systems-6A1B9A?style=for-the-badge" alt="AI Systems" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Automate-Manual%20Work-EA4B71?style=flat-square" alt="Automate manual work" />
+  <img src="https://img.shields.io/badge/Connect-APIs%20%26%20Tools-0A66C2?style=flat-square" alt="Connect APIs and tools" />
+  <img src="https://img.shields.io/badge/Retrieve-Business%20Knowledge-7952B3?style=flat-square" alt="Retrieve business knowledge" />
+  <img src="https://img.shields.io/badge/Deploy-Production%20AI-2E7D32?style=flat-square" alt="Deploy production AI" />
+</p>
 
-### About Me
+<br/>
+
+### 👋 About Me
 
 I build practical AI systems that help businesses save time, reduce manual work, and turn messy workflows into reliable automation.
 
@@ -26,49 +33,49 @@ Currently, I work remotely as a **Data Scientist** while building AI automation 
 
 My focus is simple: **understand the workflow, find where AI creates business value, and build a system that fits into the existing process.**
 
----
+<br/>
 
-### What I Build
+### 🚀 What I Build
 
 <table>
   <tr>
     <td width="50%">
-      <h3>AI Automation & Integrations</h3>
+      <h3>🔁 AI Automation & Integrations</h3>
       n8n workflows, OpenAI/Claude integrations, API automation, webhooks, CRM/email/database connections, and business process automation.
     </td>
     <td width="50%">
-      <h3>AI Agents & RAG Apps</h3>
+      <h3>🧠 AI Agents & RAG Apps</h3>
       LangGraph agents, document Q&A, internal knowledge assistants, retrieval pipelines, validation, retries, and structured outputs.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Data Science & ML Systems</h3>
+      <h3>📊 Data Science & ML Systems</h3>
       Predictive modeling, classification, data preprocessing, analytics, reporting, model evaluation, and production-ready ML workflows.
     </td>
     <td width="50%">
-      <h3>Computer Vision</h3>
+      <h3>👁️ Computer Vision</h3>
       Image classification, OCR, object detection, defect detection, medical imaging, sports analytics, and visual data pipelines.
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### Featured Systems
+### 🧩 Featured Systems
 
-| System | Production Signal |
+| System | Built For |
 | --- | --- |
-| **AI Business Automation Workflows** | n8n + APIs + OpenAI/Claude workflows for automating repetitive business operations. |
-| **Autonomous AI Developer Agent** | Codex CLI + Claude Code + GitLab + Docker + Google Cloud agent setup for ticket-to-report execution. |
-| **RAG Question Answering Systems** | Retrieval pipelines for document Q&A, internal knowledge search, and structured AI responses. |
-| **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
-| **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
-| **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows. |
+| 🔁 **AI Business Automation Workflows** | n8n + APIs + OpenAI/Claude workflows for automating repetitive business operations. |
+| 🛠️ **Autonomous AI Developer Agent** | Codex CLI + Claude Code + GitLab + Docker + Google Cloud agent setup for ticket-to-report execution. |
+| 📚 **RAG Question Answering Systems** | Retrieval pipelines for document Q&A, internal knowledge search, and structured AI responses. |
+| 📡 **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
+| 👁️ **Industrial Vision Pipelines** | YOLO/DETR/Mask R-CNN workflows for defect detection, OCR, segmentation, and classification. |
+| 🏥 **Medical & Applied AI Models** | Deep learning systems for image classification, healthcare data analysis, and applied ML workflows. |
 
----
+<br/>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,react,ts,js,docker,redis,linux,githubactions,git" alt="Tech stack icons" />
@@ -86,20 +93,26 @@ My focus is simple: **understand the workflow, find where AI creates business va
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
 </p>
 
----
+<br/>
 
-### Current Direction
+### 🎯 Business Problems I Solve
 
-I am focused on building AI systems for businesses that want to:
+<table>
+  <tr>
+    <td>⚡ Automate repetitive workflows</td>
+    <td>🔌 Connect AI to existing tools and databases</td>
+  </tr>
+  <tr>
+    <td>📚 Build internal AI assistants and RAG apps</td>
+    <td>📉 Reduce manual reporting and data entry</td>
+  </tr>
+  <tr>
+    <td>🧾 Process documents, images, and business records</td>
+    <td>🚀 Turn AI ideas into working production systems</td>
+  </tr>
+</table>
 
-- automate repetitive workflows
-- connect AI to existing tools and databases
-- build internal AI assistants and RAG apps
-- reduce manual reporting and data entry
-- process documents, images, and business records
-- turn AI ideas into working production systems
-
----
+<br/>
 
 <p align="center">
   <b>Open to AI automation, business AI integration, AI agents, RAG apps, data science, and computer vision collaborations.</b>
@@ -112,5 +125,5 @@ I am focused on building AI systems for businesses that want to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:0A66C2&height=95&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,55:0A66C2,100:101828&height=95&section=footer" alt="Footer" />
 </p>
