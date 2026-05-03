@@ -53,7 +53,7 @@ My focus is simple: **clean datasets, measurable models, structured outputs, and
 
 ### 🧠 Featured Systems
 
-| Project | Snapshot |
+| System | Production Signal |
 | --- | --- |
 | **AI Automation Platform** | LangGraph + FastAPI + Redis + React dashboard with live WebSocket observability, trace export, and replay. |
 | **Signal Builder Agent** | Schema-governed LLM system using compact Intermediate Representation for deterministic validated outputs. |
@@ -77,15 +77,6 @@ My focus is simple: **clean datasets, measurable models, structured outputs, and
   <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square" alt="Ollama" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" alt="Power BI" />
 </p>
-
----
-
-### 🎯 Current Focus
-
-- 🏭 Industrial computer vision for manufacturing quality control
-- 🤖 Deterministic LLM workflows with structured state and validation
-- 📡 Real-time observability dashboards for AI automation systems
-- 🧪 Practical AI pipelines that are testable, inspectable, and deployable
 
 ---
 
